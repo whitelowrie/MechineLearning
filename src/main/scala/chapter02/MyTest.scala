@@ -10,6 +10,6 @@ object MyTest {
     val max = new Matix(Array(1,2,3,4),2)
 
     val m2 = new Matix(Array(3,4,5,6,7,8), 2)
-    m2.
+
   }
 }
