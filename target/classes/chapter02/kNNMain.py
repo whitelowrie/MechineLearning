@@ -2,4 +2,4 @@ import kNN
 
 group,labels = kNN.createDateSet()
 
-print group
+print range(10)
